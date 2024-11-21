@@ -5,8 +5,8 @@ A responsive product listing page developed using HTML5, CSS3, and JavaScript (E
 Features
 
 - Fetches product data from (link unavailable)
-- Stores product data locally for filtering, sorting, and search functionality
-- Implements Add to Cart and Wishlist features
+- Stores product data locally for filtering and sorting functionality
+- Implements Wishlist features
 - Static Banner and Menu data
 - Responsive design for mobile and desktop devices
 
@@ -14,8 +14,6 @@ Functionality
 
 - Filter products by category
 - Sort products by price
-- Search products by name
-- Add products to Cart
 - Add products to Wishlist
 
 Technologies Used
