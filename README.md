@@ -1,4 +1,4 @@
-Product Listing Page
+**Product Listing Page**
 
 A responsive product listing page developed using HTML5, CSS3, and JavaScript (ES6) without any frameworks.
 
