@@ -4,7 +4,7 @@ A responsive product listing page developed using HTML5, CSS3, and JavaScript (E
 
 Features
 
-- Fetches product data from (link unavailable)
+- Fetches product data
 - Stores product data locally for filtering and sorting functionality
 - Implements Wishlist features
 - Static Banner and Menu data
